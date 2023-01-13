@@ -6,7 +6,7 @@ software engineer
 
 * 🌍  I'm based in Rabat
 * ✉️  You can contact me at [abdessamad\_bencheraik@um5.ac.ma](mailto:abdessamad_bencheraik@um5.ac.ma)
-* 🧠  I'm learning JavaScript & Oracle
+* 🧠  I'm learning JavaScript & cyber security
 * ⚡  3 Years learning and building projects
 
 ### Skills

@@ -5,7 +5,7 @@ software engineer
 ----------------------------------
 
 * 🌍  I'm based in Rabat
-* ✉️  You can contact me at [ab.bencheraik@gmail.com](mailto:ab.bencheraik@gmail.com)
+* ✉️  You can contact me at [ab.bencheraik@gmail.com](mailto:a*******k@gmail.com)
 * 🧠  I'm learning vue js
 * ⚡  3 Years learning and building projects
 

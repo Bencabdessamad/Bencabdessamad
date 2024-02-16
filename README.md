@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is B-abdessamad
 ====================================================================================================================================
 
-software engineer
+software engineer | Java 
 ----------------------------------
 
 * 🌍  I'm based in Rabat
 * ✉️  You can contact me at [a********k@gmail.com](mailto:a*******k@gmail.com)
-* 🧠  I'm learning vue js
+* 🧠  I'm learning Kotlin
 * ⚡  3 Years learning and building projects
 
 ### Skills

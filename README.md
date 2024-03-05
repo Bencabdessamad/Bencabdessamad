@@ -6,7 +6,7 @@ software engineer | Java
 
 * 🌍  I'm based in Rabat
 * ✉️  You can contact me at [a********k@gmail.com](mailto:a*******k@gmail.com)
-* 🧠  I'm learning Kotlin
+* 🧠  I'm learning React native
 * ⚡  3 Years learning and building projects
 
 ### Skills
